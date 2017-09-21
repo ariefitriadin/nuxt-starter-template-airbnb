@@ -4,6 +4,8 @@ A [Nuxt.js](https://github.com/nuxt/nuxt.js) starter project template without
 the distraction of a complicated development environment. Also, provides linting
 with `eslint-airbnb.base`.
 
+Credit goes to the fine folks in [this GitHub issue thread](https://github.com/nuxt/nuxt.js/issues/200).
+
 ## Installation
 
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
